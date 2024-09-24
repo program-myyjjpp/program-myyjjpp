@@ -10,3 +10,5 @@
 <p align="left">关于新版本迭代 MYY MINI / MYY PRO MAX 后面会陆续上线.</p>
 
 <a href="https://t.me/myyjjpp"><img src="https://img.shields.io/badge/Telegram-myyjjpp-0088cc" alt="Telegram: myyjjpp"></a>
+<a href="https://www.myyjjpp.com"><img src="https://img.shields.io/badge/购买程序-点击这里-ff9900" alt="购买程序平台"></a>
+
