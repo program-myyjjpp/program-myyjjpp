@@ -11,5 +11,5 @@
 
 
 <a href="https://t.me/timcms"><img src="https://img.shields.io/badge/Telegram-TIM-0088cc" alt="Telegram: timcms"></a>
-<a href="https://gpt.myyjjpp.com"><img src="https://img.shields.io/badge/购买程序-点击这里-ff9900" alt="购买程序平台"></a>
+<a href="https://www.myyjjpp.com"><img src="https://img.shields.io/badge/购买程序-点击这里-ff9900" alt="购买程序平台"></a>
 
