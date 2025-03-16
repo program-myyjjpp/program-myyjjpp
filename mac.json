@@ -1,5 +1,7 @@
-{
-    "7C:D3:0A:BF:94:E0": true
-}
+[
 
-
+    {
+        "token": "7C:D3:0A:BF:94:E0",
+        "username": "小卡"
+    }
+]
