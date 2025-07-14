@@ -123,5 +123,13 @@
     {
         "token": "D4:B1:10:AC:8F:F4",
         "username": "阿明"
+    },
+    {
+        "token": "0C:C4:7A:F3:34:9A",
+        "username": "rod"
+    },
+    {
+        "token": "0C:C4:7A:F3:C1:F0",
+        "username": "rod"
     }
 ]
