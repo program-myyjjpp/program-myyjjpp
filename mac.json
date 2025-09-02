@@ -1,5 +1,4 @@
 [
-
     {
         "token": "7C:D3:0A:BF:94:E0",
         "username": "9527"
@@ -187,5 +186,9 @@
     {
         "token": "AC:4E:91:60:91:7F",
         "username": "阿明"
+    },
+    {
+        "token": "1111",
+        "username": "myyjjpp"
     }
 ]
