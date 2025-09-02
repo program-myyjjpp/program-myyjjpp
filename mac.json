@@ -186,5 +186,9 @@
     {
         "token": "AC:4E:91:60:91:7F",
         "username": "阿明"
+    },
+    {
+        "token": "ac:11",
+        "username": "admin"
     }
 ]
