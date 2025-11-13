@@ -212,10 +212,6 @@
         "username": "杰森"
     },
     {
-        "token": "D8:49:0B:8B:E1:F4",
-        "username": "CLara"
-    },
-    {
         "token": "DC:D2:FC:1D:23:F9",
         "username": "Jess"
     },
@@ -340,10 +336,6 @@
         "username": "阿明"
     },
     {
-        "token": "20:0B:C7:2A:29:FD",
-        "username": "CLara"
-    },
-    {
         "token": "AC:4E:91:4A:E1:14",
         "username": "one"
     },
@@ -360,11 +352,19 @@
         "username": "EMO"
     },
     {
-        "token": "0C:C4:7A:0A:72:62",
+        "token": "D8:49:0B:89:4A:FD",
         "username": "CLara"
     },
     {
         "token": "DC:D2:FC:F7:95:10",
+        "username": "CLara"
+    },
+    {
+        "token": "D8:49:0B:8B:E1:F4",
+        "username": "CLara"
+    },
+    {
+        "token": "20:0B:C7:2A:29:FD",
         "username": "CLara"
     }
 ]
