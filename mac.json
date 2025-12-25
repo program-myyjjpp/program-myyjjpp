@@ -1,418 +1,106 @@
 [
-    {
-        "token": "7C:D3:0A:BF:94:E0",
-        "username": "9527"
-    },
-    {
-        "token": "52:54:4E:46:70:10",
-        "username": "如意"
-    },
-    {
-        "token": "60:DE:44:75:BB:49",
-        "username": "如意"
-    },
-    {
-        "token": "18:66:DA:E6:E6:4C",
-        "username": "Kevin Huang"
-    },
-    {
-        "token": "00:23:AE:EE:C8:D8",
-        "username": "欧"
-    },
-    {
-        "token": "D0:94:66:93:90:3E",
-        "username": "rod"
-    },
-    {
-        "token": "0C:C4:7A:3A:E5:46",
-        "username": "阿星"
-    },
-    {
-        "token": "78:45:C4:FC:61:95",
-        "username": "饕鬄"
-    },
-    {
-        "token": "F0:4D:A2:75:DE:CA",
-        "username": "chen"
-    },
-    {
-        "token": "60:DE:44:74:C9:D2",
-        "username": "阿明"
-    },
-    {
-        "token": "F0:4D:A2:74:50:68",
-        "username": "ca888"
-    },
-    {
-        "token": "78:45:C4:FB:83:E2",
-        "username": "tao"
-    },
-    {
-        "token": "DC:D2:FC:21:7D:E8",
-        "username": "阿明"
-    },
-    {
-        "token": "0C:C4:7A:4C:68:72",
-        "username": "强仔"
-    },
-    {
-        "token": "0C:C4:7A:F3:31:AC",
-        "username": "强仔"
-    },
-    {
-        "token": "26:56:95:88:6E:78",
-        "username": "西蒙"
-    },
-    {
-        "token": "34:17:EB:E7:52:14",
-        "username": "新宿"
-    },
-    {
-        "token": "0C:C4:7A:F3:D0:58",
-        "username": "linn"
-    },
-    {
-        "token": "DC:D2:FC:9B:C8:64",
-        "username": "阿明"
-    },
-    {
-        "token": "20:0B:C7:2B:E2:38",
-        "username": "阿明"
-    },
-    {
-        "token": "B0:09:C0:00:18:89",
-        "username": "mi"
-    },
-    {
-        "token": "0C:C4:7A:16:35:2D",
-        "username": "jerry"
-    },
-    {
-        "token": "0C:C4:7A:74:F5:B2",
-        "username": "rod"
-    },
-    {
-        "token": "D4:B1:10:AC:8F:F4",
-        "username": "阿明"
-    },
-    {
-        "token": "0C:C4:7A:F3:34:9A",
-        "username": "rod"
-    },
-    {
-        "token": "0C:C4:7A:F3:C1:F0",
-        "username": "rod"
-    },
-    {
-        "token": "D4:B1:10:B5:9B:27",
-        "username": "SPEEDOMETER"
-    },
-    {
-        "token": "AC:4E:91:4A:8F:00",
-        "username": "阿明"
-    },
-    {
-        "token": "DC:D2:FC:97:39:8B",
-        "username": "阿豪"
-    },
-    {
-        "token": "CC:53:B5:EE:27:83",
-        "username": "阿豪"
-    },
-    {
-        "token": "48:46:FB:09:65:C7",
-        "username": "阿豪"
-    },
-    {
-        "token": "60:DE:44:74:CB:86",
-        "username": "阿豪"
-    },
-    {
-        "token": "DC:D2:FC:9A:2D:8E",
-        "username": "阿豪"
-    },
-    {
-        "token": "60:DE:44:75:BD:59",
-        "username": "阿星"
-    },
-    {
-        "token": "0C:C4:7A:C6:FD:D1",
-        "username": "Mtk buy"
-    },
-    {
-        "token": "78:45:C4:F7:FB:3F",
-        "username": "欧"
-    },
-    {
-        "token": "24:B6:FD:FF:2B:6B",
-        "username": "阿豪"
-    },
-    {
-        "token": "AC:4E:91:60:91:7F",
-        "username": "阿明"
-    },
-    {
-        "token": "AC:1F:6B:C8:16:CC",
-        "username": "猪猪侠"
-    },
-    {
-        "token": "F0:4D:A2:74:62:8C",
-        "username": "悟空"
-    },
-    {
-        "token": "78:45:C4:F8:E2:8A",
-        "username": "悟空"
-    },
-    {
-        "token": "00:23:AE:EE:ED:C2",
-        "username": "悟空"
-    },
-    {
-        "token": "00:24:E8:FD:EB:56",
-        "username": "悟空"
-    },
-    {
-        "token": "F0:4D:A2:74:33:0E",
-        "username": "阿豪"
-    },
-    {
-        "token": "F0:4D:A2:73:83:4E",
-        "username": "阿豪"
-    },
-    {
-        "token": "B8:CA:3A:EE:CD:EF",
-        "username": "Deleted Account"
-    },
-    {
-        "token": "CC:53:B5:EF:A8:6E",
-        "username": "大头"
-    },
-    {
-        "token": "20:0B:C7:2A:28:79",
-        "username": "小七"
-    },
-    {
-        "token": "F0:4D:A2:75:D8:61",
-        "username": "Latte"
-    },
-    {
-        "token": "DC:D2:FC:F9:D3:08",
-        "username": "Jess"
-    },
-    {
-        "token": "A4:BF:01:18:A2:55",
-        "username": "杰森"
-    },
-    {
-        "token": "DC:D2:FC:1D:23:F9",
-        "username": "Jess"
-    },
-    {
-        "token": "B0:83:FE:D3:EF:79",
-        "username": "王哥"
-    },
-    {
-        "token": "8A:B8:63:06:84:C3",
-        "username": "max"
-    },
-    {
-        "token": "2A:B7:26:2B:73:D5",
-        "username": "lullaby"
-    },
-    {
-        "token": "20:0B:C7:2A:27:09",
-        "username": "NASHVILLE"
-    },
-    {
-        "token": "DC:D2:FC:97:3A:63",
-        "username": "彦祖"
-    },
-    {
-        "token": "E4:68:A3:55:B0:3C",
-        "username": "BOGEBA"
-    },
-    {
-        "token": "F0:4D:A2:73:71:60",
-        "username": "阿悦"
-    },
-    {
-        "token": "0C:C4:7A:D7:7C:9C",
-        "username": "Pebbly"
-    },
-    {
-        "token": "CC:53:B5:F3:E0:84",
-        "username": "Putanyinan"
-    },
-    {
-        "token": "F0:4D:A2:75:FD:12",
-        "username": "杰森"
-    },
-    {
-        "token": "10:1B:54:43:C2:99",
-        "username": "wangsang"
-    },
-    {
-        "token": "DC:D2:FC:22:75:4E",
-        "username": "jess"
-    },
-    {
-        "token": "14:18:77:58:70:A2",
-        "username": "王哥"
-    },
-    {
-        "token": "00:8C:FA:C8:C0:54",
-        "username": "阿秋no"
-    },
-    {
-        "token": "34:17:EB:E9:03:AB",
-        "username": "阿秋no"
-    },
-    {
-        "token": "00:8C:FA:C9:1A:48",
-        "username": "阿秋no"
-    },
-    {
-        "token": "1A:8D:21:2D:09:84",
-        "username": "阿秋no"
-    },
-    {
-        "token": "DC:D2:FC:F4:CE:14",
-        "username": "阿秋"
-    },
-    {
-        "token": "48:46:FB:00:DB:5F",
-        "username": "阿秋"
-    },
-    {
-        "token": "BA:88:00:5D:57:91",
-        "username": "阿秋"
-    },
-    {
-        "token": "20:0B:C7:2A:26:E6",
-        "username": "阿秋"
-    },
-    {
-        "token": "34:17:EB:EA:35:B1",
-        "username": "巴卡玛卡"
-    },
-    {
-        "token": "00:8C:FA:C8:D2:CC",
-        "username": "巴卡玛卡"
-    },
-    {
-        "token": "CC:53:B5:EF:A7:7E",
-        "username": "阿明"
-    },
-    {
-        "token": "0C:C4:7A:0A:E6:C9",
-        "username": "jiaoanpu"
-    },
-    {
-        "token": "6A:5A:B5:24:E9:62",
-        "username": "阿秋"
-    },
-    {
-        "token": "46:B1:BB:A0:F2:98",
-        "username": "阿秋"
-    },
-    {
-        "token": "D8:49:0B:88:A5:4E",
-        "username": "heren"
-    },
-    {
-        "token": "DC:D2:FC:F8:F6:1A",
-        "username": "阿明"
-    },
-    {
-        "token": "AC:4E:91:4A:E1:14",
-        "username": "one"
-    },
-    {
-        "token": "DC:D2:FC:F4:CE:14",
-        "username": "阿秋"
-    },
-    {
-        "token": "00:8C:FA:C8:BC:F4",
-        "username": "wesley"
-    },
-    {
-        "token": "F0:4D:A2:78:B1:67",
-        "username": "EMO"
-    },
-    {
-        "token": "34:17:EB:E6:CB:9D",
-        "username": "CLara"
-    },
-    {
-        "token": "D8:49:0B:89:4A:FD",
-        "username": "CLara"
-    },
-    {
-        "token": "D8:49:0B:8B:E1:F4",
-        "username": "CLara"
-    },
-    {
-        "token": "34:17:EB:E6:C8:EB",
-        "username": "CLara"
-    },
-    {
-        "token": "00:8C:FA:EB:E5:24",
-        "username": "悟空"
-    },
-    {
-        "token": "60:DE:44:75:BC:A5",
-        "username": "阿明"
-    },
-    {
-        "token": "52:54:10:CE:D2:20",
-        "username": "如意"
-    },
-    {
-        "token": "E0:DB:55:FC:25:C4",
-        "username": "雷克多"
-    },
-    {
-        "token": "18:03:73:FF:79:CD",
-        "username": "TV"
-    },
-    {
-        "token": "F0:4D:A2:75:F8:02",
-        "username": "max"
-    },
-    {
-        "token": "7C:D3:0A:DC:60:18",
-        "username": "Mark Don"
-    },
-    {
-        "token": "00:8C:FA:C9:3F:64",
-        "username": "雷克多"
-    },
-    {
-        "token": "7C:D3:0A:E6:F7:C6",
-        "username": "乐乐"
-    },
-    {
-        "token": "7C:D3:0A:DA:EA:C8",
-        "username": "Modjeska"
-    },
-    {
-        "token": "20:F1:7C:B3:76:A5",
-        "username": "hulu"
-    },
-    {
-        "token": "C4:FF:1F:CD:AB:3F",
-        "username": "hulu"
-    },
-    {
-        "token": "28:A6:DB:84:A5:DB",
-        "username": "hulu"
-    },
-    {
-        "token": "0C:C4:7A:C4:C2:68",
-        "username": "齐天"
-    },
-    {
-        "token": "F0:4D:A2:75:EA:22",
-        "username": "EMO"
-    }
+    {"token": "7C:D3:0A:BF:94:E0","username": "9527"},
+    {"token": "52:54:4E:46:70:10","username": "如意"},
+    {"token": "60:DE:44:75:BB:49","username": "如意"},
+    {"token": "18:66:DA:E6:E6:4C","username": "Kevin Huang"},
+    {"token": "00:23:AE:EE:C8:D8","username": "欧"},
+    {"token": "D0:94:66:93:90:3E","username": "rod"},
+    {"token": "0C:C4:7A:3A:E5:46","username": "阿星"},
+    {"token": "78:45:C4:FC:61:95","username": "饕鬄"},
+    {"token": "F0:4D:A2:75:DE:CA","username": "chen"},
+    {"token": "60:DE:44:74:C9:D2","username": "阿明"},
+    {"token": "F0:4D:A2:74:50:68","username": "ca888"},
+    {"token": "78:45:C4:FB:83:E2","username": "tao"},
+    {"token": "DC:D2:FC:21:7D:E8","username": "阿明"},
+    {"token": "0C:C4:7A:4C:68:72","username": "强仔"},
+    {"token": "0C:C4:7A:F3:31:AC","username": "强仔"},
+    {"token": "26:56:95:88:6E:78","username": "西蒙"},
+    {"token": "34:17:EB:E7:52:14","username": "新宿"},
+    {"token": "0C:C4:7A:F3:D0:58","username": "linn"},
+    {"token": "DC:D2:FC:9B:C8:64","username": "阿明"},
+    {"token": "20:0B:C7:2B:E2:38","username": "阿明"},
+    {"token": "B0:09:C0:00:18:89","username": "mi"},
+    {"token": "0C:C4:7A:16:35:2D","username": "jerry"},
+    {"token": "0C:C4:7A:74:F5:B2","username": "rod"},
+    {"token": "D4:B1:10:AC:8F:F4","username": "阿明"},
+    {"token": "0C:C4:7A:F3:34:9A","username": "rod"},
+    {"token": "0C:C4:7A:F3:C1:F0","username": "rod"},
+    {"token": "D4:B1:10:B5:9B:27","username": "SPEEDOMETER"},
+    {"token": "AC:4E:91:4A:8F:00","username": "阿明"},
+    {"token": "DC:D2:FC:97:39:8B","username": "阿豪"},
+    {"token": "CC:53:B5:EE:27:83","username": "阿豪"},
+    {"token": "48:46:FB:09:65:C7","username": "阿豪"},
+    {"token": "60:DE:44:74:CB:86","username": "阿豪"},
+    {"token": "DC:D2:FC:9A:2D:8E","username": "阿豪"},
+    {"token": "60:DE:44:75:BD:59","username": "阿星"},
+    {"token": "0C:C4:7A:C6:FD:D1","username": "Mtk buy"},
+    {"token": "78:45:C4:F7:FB:3F","username": "欧"},
+    {"token": "24:B6:FD:FF:2B:6B","username": "阿豪"},
+    {"token": "AC:4E:91:60:91:7F","username": "阿明"},
+    {"token": "AC:1F:6B:C8:16:CC","username": "猪猪侠"},
+    {"token": "F0:4D:A2:74:62:8C","username": "悟空"},
+    {"token": "78:45:C4:F8:E2:8A","username": "悟空"},
+    {"token": "00:23:AE:EE:ED:C2","username": "悟空"},
+    {"token": "00:24:E8:FD:EB:56","username": "悟空"},
+    {"token": "F0:4D:A2:74:33:0E","username": "阿豪"},
+    {"token": "F0:4D:A2:73:83:4E","username": "阿豪"},
+    {"token": "B8:CA:3A:EE:CD:EF","username": "Deleted Account"},
+    {"token": "CC:53:B5:EF:A8:6E","username": "大头"},
+    {"token": "20:0B:C7:2A:28:79","username": "小七"},
+    {"token": "F0:4D:A2:75:D8:61","username": "Latte"},
+    {"token": "DC:D2:FC:F9:D3:08","username": "Jess"},
+    {"token": "A4:BF:01:18:A2:55","username": "杰森"},
+    {"token": "DC:D2:FC:1D:23:F9","username": "Jess"},
+    {"token": "B0:83:FE:D3:EF:79","username": "王哥"},
+    {"token": "8A:B8:63:06:84:C3","username": "max"},
+    {"token": "2A:B7:26:2B:73:D5","username": "lullaby"},
+    {"token": "20:0B:C7:2A:27:09","username": "NASHVILLE"},
+    {"token": "DC:D2:FC:97:3A:63","username": "彦祖"},
+    {"token": "E4:68:A3:55:B0:3C","username": "BOGEBA"},
+    {"token": "F0:4D:A2:73:71:60","username": "阿悦"},
+    {"token": "0C:C4:7A:D7:7C:9C","username": "Pebbly"},
+    {"token": "CC:53:B5:F3:E0:84","username": "Putanyinan"},
+    {"token": "F0:4D:A2:75:FD:12","username": "杰森"},
+    {"token": "10:1B:54:43:C2:99","username": "wangsang"},
+    {"token": "DC:D2:FC:22:75:4E","username": "jess"},
+    {"token": "14:18:77:58:70:A2","username": "王哥"},
+    {"token": "00:8C:FA:C8:C0:54","username": "阿秋no"},
+    {"token": "34:17:EB:E9:03:AB","username": "阿秋no"},
+    {"token": "00:8C:FA:C9:1A:48","username": "阿秋no"},
+    {"token": "1A:8D:21:2D:09:84","username": "阿秋no"},
+    {"token": "DC:D2:FC:F4:CE:14","username": "阿秋"},
+    {"token": "48:46:FB:00:DB:5F","username": "阿秋"},
+    {"token": "BA:88:00:5D:57:91","username": "阿秋"},
+    {"token": "20:0B:C7:2A:26:E6","username": "阿秋"},
+    {"token": "34:17:EB:EA:35:B1","username": "巴卡玛卡"},
+    {"token": "00:8C:FA:C8:D2:CC","username": "巴卡玛卡"},
+    {"token": "CC:53:B5:EF:A7:7E","username": "阿明"},
+    {"token": "0C:C4:7A:0A:E6:C9","username": "jiaoanpu"},
+    {"token": "6A:5A:B5:24:E9:62","username": "阿秋"},
+    {"token": "46:B1:BB:A0:F2:98","username": "阿秋"},
+    {"token": "D8:49:0B:88:A5:4E","username": "heren"},
+    {"token": "DC:D2:FC:F8:F6:1A","username": "阿明"},
+    {"token": "AC:4E:91:4A:E1:14","username": "one"},
+    {"token": "DC:D2:FC:F4:CE:14","username": "阿秋"},
+    {"token": "00:8C:FA:C8:BC:F4","username": "wesley"},
+    {"token": "F0:4D:A2:78:B1:67","username": "EMO"},
+    {"token": "34:17:EB:E6:CB:9D","username": "CLara"},
+    {"token": "D8:49:0B:89:4A:FD","username": "CLara"},
+    {"token": "D8:49:0B:8B:E1:F4","username": "CLara"},
+    {"token": "34:17:EB:E6:C8:EB","username": "CLara"},
+    {"token": "00:8C:FA:EB:E5:24","username": "悟空"},
+    {"token": "60:DE:44:75:BC:A5","username": "阿明"},
+    {"token": "52:54:10:CE:D2:20","username": "如意"},
+    {"token": "E0:DB:55:FC:25:C4","username": "雷克多"},
+    {"token": "18:03:73:FF:79:CD","username": "TV"},
+    {"token": "F0:4D:A2:75:F8:02","username": "max"},
+    {"token": "7C:D3:0A:DC:60:18","username": "Mark Don"},
+    {"token": "00:8C:FA:C9:3F:64","username": "雷克多"},
+    {"token": "7C:D3:0A:E6:F7:C6","username": "乐乐"},
+    {"token": "7C:D3:0A:DA:EA:C8","username": "Modjeska"},
+    {"token": "20:F1:7C:B3:76:A5","username": "hulu"},
+    {"token": "C4:FF:1F:CD:AB:3F","username": "hulu"},
+    {"token": "28:A6:DB:84:A5:DB","username": "hulu"},
+    {"token": "0C:C4:7A:C4:C2:68","username": "齐天"},
+    {"token": "F0:4D:A2:75:EA:22","username": "EMO"}
 ]
