@@ -64,6 +64,7 @@
 {"token": "34:17:EB:E9:03:AB", "username": "阿秋no"},
 {"token": "34:17:EB:EA:35:B1", "username": "巴卡玛卡"},
 {"token": "3C:EC:EF:1E:AE:0A", "username": "ded plus"},
+{"token": "40:F2:E9:BA:7B:D8", "username": "乐乐"},
 {"token": "44:A8:42:44:4A:FE", "username": "乐乐"},
 {"token": "46:B1:BB:A0:F2:98", "username": "阿秋"},
 {"token": "48:46:FB:00:55:25", "username": "阿明"},
@@ -160,6 +161,7 @@
 {"token": "DC:D2:FC:97:39:8B", "username": "阿豪"},
 {"token": "DC:D2:FC:97:39:EF", "username": "阿明"},
 {"token": "DC:D2:FC:97:3A:63", "username": "彦祖"},
+{"token": "DC:D2:FC:97:3A:E7", "username": "Deleted Account"},
 {"token": "DC:D2:FC:9A:2D:8E", "username": "阿豪"},
 {"token": "DC:D2:FC:9A:2D:D3", "username": "阿明"},
 {"token": "DC:D2:FC:9A:2E:3A", "username": "阿明"},
@@ -201,6 +203,5 @@
 {"token": "F0:4D:A2:75:F8:02", "username": "max"},
 {"token": "F0:4D:A2:75:FD:12", "username": "杰森"},
 {"token": "F0:4D:A2:77:35:89", "username": "Mark Don"},
-{"token": "F0:4D:A2:78:B1:67", "username": "EMO"},
-{"token": "DC:D2:FC:97:3A:E7", "username": "Deleted Account"}
+{"token": "F0:4D:A2:78:B1:67", "username": "EMO"}
 ]
